@@ -1,0 +1,1 @@
+FCNdirectory = "/tmp/test"
